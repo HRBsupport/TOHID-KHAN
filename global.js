@@ -179,7 +179,7 @@ const { state, saveCreds } = await useMultiFileAuthState(global.authFolder)
 //let { version, isLatest } = await fetchLatestWaWebVersion()
 
 const connectionOptions = {
-  version: [2, 3000, 1015901307],
+  version: [2,3000,1019707846],
   logger: Pino({
     level: 'fatal',
   }),
