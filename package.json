@@ -1,5 +1,5 @@
 {
-    "name": "Tohid",
+    "name": "Honors",
     "version": "3.2.9",
     "description": "Advanced WhatsApp",
     "main": "index.js",
@@ -10,7 +10,7 @@
         "plugins": "plugins"
     },
     "engines": {
-        "node": ">=20.0.0"
+        "node": ">=20.15.0"
     },
     "scripts": {
         "start": "node index.js",
@@ -28,16 +28,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Tohidkhan6332/TOHID-KHAN",
+    "homepage": "https://github.com/HRBsupport/TOHID-KHAN",
     "author": {
-        "name": "Tohidkhan6332"
+        "name": "HRBsupport"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Tohidkhan6332/TOHID-KHAN.git"
+        "url": "git+https://github.com/HRBsupport/TOHID-KHAN.git"
     },
     "bugs": {
-        "url": "https://github.com/Tohidkhan6332/TOHID-KHAN/issues"
+        "url": "https://github.com/HRBsupport/TOHID-KHAN/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
@@ -119,6 +119,6 @@
         "cache-manager": "5.2.2"
     },
     "devDependencies": {
-        "prettier": "^3.2.5"
+        "prettier": "^4.1.5"
     }
 }
