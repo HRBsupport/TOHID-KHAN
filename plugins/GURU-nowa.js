@@ -1,7 +1,7 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   let regex = /x/g
   if (!text) throw 'Give a number to search'
-  if (!text.match(regex)) throw `*Example: ${usedPrefix + command} 917849918350*`
+  if (!text.match(regex)) throw `*Example: ${usedPrefix + command} +62__________*`
   let random = text.match(regex).length,
     total = Math.pow(10, random),
     array = []

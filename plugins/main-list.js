@@ -111,8 +111,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •listprem
 ◈ •listmenu
 ◈ •mrcs
-◈ © Tohidkhan6332
-╰─『 *TOHID-AI* 』─❍` // Your bot menu message here
+◈ © ZERO OF HONORSTEAM
+╰─『 *HONORS-AI* 』─❍` // Your bot menu message here
       break
       case 'aimenu':
       lkr=`
@@ -129,7 +129,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  ◈ •ai
  ◈ •fact
  ◈ •why
- ╰─『 *TOHID-AI* 』─❍` //
+ ╰─『 *HONORS-AI* 』─❍` //
  break
 
  case 'logosmaker':
@@ -150,7 +150,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  ◈ •clouds
  ◈ •galaxy
  ◈ •beach
- ╰─『 *TOHID-AI* 』─❍` //
+ ╰─『 *HONORS-AI* 』─❍` //
  break
       case 'imagen':
       case 'imagenai':
@@ -167,7 +167,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
  ◈ •realistic
  ◈ •lexica
  ◈ •dalle
- ╰─『 *TOHID-AI* 』─❍` //
+ ╰─『 *HONORS-AI* 』─❍` //
  break
     case 'ownermenu':
       lkr = `
@@ -222,7 +222,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •allow
 ◈ •listban
 ◈ •join
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
       case 'randompic':
       lkr = `
@@ -260,7 +260,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •pubg
 ◈ •wallml
 ◈ •wallhp
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
       case 'randomvid':
       lkr = `
@@ -273,7 +273,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •tiktokkayes
 ◈ •tiktokpanrika
 ◈ •tiktoknotnot
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'groupmenu':
       lkr = `
@@ -313,7 +313,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •poll
 ◈ •simulate
 ◈ •admins
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'downloadermenu':
     case 'dlmenu':
@@ -358,7 +358,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •playstore
 ◈ •ringtone
 ◈ •dlstatus
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'economymenu':
     case 'economy':
@@ -412,7 +412,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •ytcomment
 ◈ •stupid
 ◈ •lolicon
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
       case 'animereactions':
 case 'reactions':
@@ -443,7 +443,7 @@ lkr=`
 ◈ •poke
 ◈ •dance
 ◈ •cringe
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'animemenu':
       lkr = `
@@ -485,7 +485,7 @@ lkr=`
 ◈ •sasuke
 ◈ •sakura
 ◈ •kotori
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
       case 'infoanime':
       lkr = `
@@ -524,7 +524,7 @@ lkr=`
 ◈ •anime sasuke
 ◈ •anime sakura
 ◈ •anime kotori
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'gamemenu':
     case 'gamesmenu':
@@ -542,7 +542,7 @@ lkr=`
 ◈ •casino
 ◈ •guessflag
 ◈ •fhint
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'stickermenu':
       lkr = `
@@ -569,7 +569,7 @@ lkr=`
 ◈ •attp
 ◈ •attp2
 ◈ •attp3
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'toolmenu':
     case 'toolsmenu':
@@ -623,7 +623,7 @@ lkr=`
 ◈ •voz
 ◈ •remini
 ◈ •enhance
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
 break
 case 'aeditor':
 case 'audioeditor':
@@ -642,7 +642,7 @@ lkr=`
 ◈ •tupai
 ◈ •squirrel
 ◈ •chipmunk
-╰─『 *TOHID-AI* 』─❍` //
+╰─『 *HONORS-AI* 』─❍` //
       break
     case 'nsfwmenu': 
       lkr = `
@@ -727,7 +727,7 @@ lkr=`
   ◈ •pack
   ◈ •xvid
   ◈ •xnxx
-  ╰─『 *TOHID-AI* 』─❍` //
+  ╰─『 *HONORS-AI* 』─❍` //
       break
     case 'logomenu':
     case 'makermenu':
@@ -758,7 +758,7 @@ lkr=`
   ◈ •lolicon
   ◈ •logololi
   ◈ •ytcomment <comment>
-  ╰─『 *TOHID-AI* 』─❍` //
+  ╰─『 *HONORS-AI* 』─❍` //
       break
     default:
       lkr = `Invalid command. Type ${usedPrefix}list to see available options.`

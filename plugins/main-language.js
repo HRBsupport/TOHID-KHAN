@@ -1,5 +1,5 @@
 let handler = async (m, { conn, text, args, usedPrefix, command }) => {
-  let te = `✳️ Select the language you want to use\n≡ *Available languages:*\n- es (Spanish)\n- en (English)\n- id (Indonesian)\n- pt (Portuguese)\n- ar (Arabic)\n\nExample: *${usedPrefix + command}* en\nHelp us translate the bot into your language\nt.me/Tohid_mewati`.trim();
+  let te = `✳️ Select the language you want to use\n≡ *Available languages:*\n- es (Spanish)\n- jp (japanese) coming soon\n- th (thailand) coming soon\n- in (indian) coming soon\n- tg (Tagalog) coming soon\n- en (English)\n- id (Indonesian)\n- pt (Portuguese)\n- ar (Arabic)\n\nExample: *${usedPrefix + command}* en\nHelp us translate the bot into your language\nt.me/dammingyu`.trim();
   
   if (!text) throw te;
 
@@ -8,6 +8,18 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
   if (args[0] === "es") {
     user.language = args[0];
     m.reply("✅ *Español Seleccionado*\n\nAhora el bot responderá a su mensaje en Español");
+  } else if (args[0] === "jp") {
+    user.language = args[0];
+    m.reply("✅ *Selected Japanese*\n\nLanguage Japanese coming soon release");
+  } else if (args[0] === "th") {
+    user.language = args[0];
+    m.reply("✅ *Selected Thailand*\n\nLanguage Thailand coming soon release");
+  } else if (args[0] === "in") {
+    user.language = args[0];
+    m.reply("✅ *Selected Indian*\n\nLanguage Indian coming soon release");
+  } else if (args[0] === "tg") {
+    user.language = args[0];
+    m.reply("✅ *Selected Tagalog*\n\nLanguage Tagalog coming soon release");
   } else if (args[0] === "en") {
     user.language = args[0];
     m.reply("✅ *Selected English*\n\nNow the bot will reply to your message in English");
